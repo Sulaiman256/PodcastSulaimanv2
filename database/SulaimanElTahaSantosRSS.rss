@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Resumen de Podcasts</title>
+        <description>Resumen de los últimos episodios de podcast</description>
+        <link>https://sulaiman256.github.io/PodcastSulaiman/</link>
+        
+        <item>
+            <title>La Tecnología</title>
+            <description>Últimas tendencias en tecnología y gadgets.</description>
+            <author>Juan Pérez</author>
+            <itunes:image href="https://thumbs.dreamstime.com/z/icono-vectorial-de-dos-avatares-color-del-concepto-tecnolog%C3%ADa-futura-s%C3%ADmbolo-avatar-azul-aislado-puede-ser-usado-para-web-m%C3%B3vil-149155407.jpg" />
+            <itunes:duration>1800</itunes:duration>
+            <itunes:summary>En este podcast, nos sumergimos en las últimas tendencias tecnológicas y los gadgets más innovadores del momento. Desde inteligencia artificial hasta dispositivos portátiles y avances en la nube, exploramos cómo la tecnología está transformando nuestra vida diaria y el futuro que nos espera en un mundo cada vez más digitalizado.</itunes:summary>
+            <pubDate>Thu, 15 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>El Cine y Entretenimiento</title>
+            <description>Lo mejor del cine y las series de TV.</description>
+            <author>María López</author>
+            <itunes:image href="https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg" />
+            <itunes:duration>2700</itunes:duration>
+            <itunes:summary>Descubre lo mejor del mundo del cine y las series de televisión en este apasionante podcast. Desde críticas de estrenos hasta entrevistas con directores y actores destacados, te mantenemos al día con todo lo que necesitas saber sobre tus películas y programas favoritos, así como las tendencias más destacadas del entretenimiento actual.</itunes:summary>
+            <pubDate>Wed, 14 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Los Deportes</title>
+            <description>Noticias, análisis y debates sobre los deportes más populares.</description>
+            <author>Carlos Martínez</author>
+            <itunes:image href="https://i.pinimg.com/736x/cd/e2/2c/cde22c412540bd2fdd84e4dfa747b911.jpg" />
+            <itunes:duration>1500</itunes:duration>
+            <itunes:summary>Sumérgete en el emocionante mundo del deporte con noticias de última hora, análisis profundos y debates apasionados sobre los eventos más relevantes en el mundo deportivo. Desde fútbol y baloncesto hasta tenis y eSports, exploramos todo lo relacionado con los deportes que apasionan a millones en todo el mundo.</itunes:summary>
+            <pubDate>Tue, 13 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>La Salud y Bienestar</title>
+            <description>Consejos prácticos para una vida saludable.</description>
+            <author>Laura Gómez</author>
+            <itunes:image href="https://thumbs.dreamstime.com/b/logo-del-icono-de-concepto-salud-coraz%C3%B3n-forma-simple-rojo-con-la-l%C3%ADnea-blanca-dentro-169861715.jpg" />
+            <itunes:duration>2400</itunes:duration>
+            <itunes:summary>En busca de una vida más saludable y equilibrada, este podcast ofrece consejos prácticos respaldados por expertos en medicina y bienestar. Desde técnicas de mindfulness hasta recomendaciones nutricionales, exploramos cómo podemos mejorar nuestra salud física y mental en un mundo cada vez más ocupado.</itunes:summary>
+            <pubDate>Mon, 12 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Islam y Pensamiento</title>
+            <description>Explorando los principios del Islam y cómo pensar para llegar al Creador.</description>
+            <author>Ahmad</author>
+            <itunes:image href="https://static.vecteezy.com/system/resources/previews/003/111/376/original/muslim-man-and-avatar-vector.jpg" />
+            <itunes:duration>3000</itunes:duration>
+            <itunes:summary>En este espacio reflexivo, exploramos los principios fundamentales del Islam y cómo estos afectan nuestra forma de pensar y vivir. Desde discusiones sobre espiritualidad hasta debates sobre la personalidad y pensamiento islámico contemporáneo, buscamos comprender cómo el pensamiento lleva a una conexión más profunda con el Creador según la perspectiva islámica.</itunes:summary>
+            <pubDate>Sat, 10 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
